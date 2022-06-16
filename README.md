@@ -1,4 +1,4 @@
 # emojipedia
-Created with CodeSandbox
+Created with ReactJs & jS
 
 link - https://csb-terkcp.netlify.app/
